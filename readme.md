@@ -1,4 +1,4 @@
-<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30"/> Hi!.</h1>
+<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30"/> Hi! </h1>
 
 ### Full-Stack | Web | Mobile (Android & Flutter)
 
