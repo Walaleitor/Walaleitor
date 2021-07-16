@@ -1,5 +1,3 @@
-<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="30"/> Hi! </h1>
-
 <p>Welcome to my GitHub Account <img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="18"/> </br> I'm Sebastián, FullStack Developer from <img src="https://image.flaticon.com/icons/svg/299/299817.svg" width="13"/> <b> Santiago, Chile</b>. </br> Dogs are the best <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/dog-face_1f436.png" width="18" >  </p>
 
 ### Things i like to code with
@@ -20,6 +18,3 @@
 <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
 </p>
 
-A hypercube.
-
-![](https://media.giphy.com/media/5xtDarp0noloDdukcCY/giphy.gif)
