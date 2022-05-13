@@ -1,4 +1,4 @@
-<p>Welcome to my GitHub Account <img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="18"/> </br> I'm Sebastián, FullStack Developer from <img src="https://image.flaticon.com/icons/svg/299/299817.svg" width="13"/> <b> Santiago, Chile</b>. </br> Dogs are the best <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/dog-face_1f436.png" width="18" >  </p>
+<p>Welcome to my GitHub Account </br> I'm Sebastián, FullStack Developer from Chile <b> Santiago, Chile</b>. </br> Dogs are the best <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/dog-face_1f436.png" width="18" >  </p>
 
 ### Things i like to code with
 
