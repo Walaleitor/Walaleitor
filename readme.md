@@ -1,7 +1,5 @@
 <p>Welcome to my GitHub Account </br> I'm Sebastián, FullStack Developer from Chile <b> Santiago, Chile</b>. </br> Dogs are the best <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/dog-face_1f436.png" width="18" >  </p>
 
-### Things i like to code with
-
 <p> 
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-092036?style=flat-square&logo=node.js" />
 
